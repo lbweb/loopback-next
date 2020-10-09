@@ -113,3 +113,8 @@ lb4 example hello-world
 Please follow the instructions in
 [Install LoopBack4 CLI](Getting-started.md#install-loopback-4-cli) if you don't
 have `lb4` installed yet.
+
+## Community examples
+
+For examples created by the community, see the
+[community examples page](Community-examples.md).
