@@ -114,6 +114,11 @@ Please follow the instructions in
 [Install LoopBack4 CLI](Getting-started.md#install-loopback-4-cli) if you don't
 have `lb4` installed yet.
 
+The official examples are hosted at the following urls:
+
+- https://github.com/strongloop/loopback4-example-shopping
+- https://github.com/strongloop/loopback-next/tree/master/examples
+
 ## Community examples
 
 For examples created by the community, see the
